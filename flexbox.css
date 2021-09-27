@@ -15,7 +15,7 @@ body {
 
 /* Navbar */
 .nav {
-    min-height: 42px;
+    min-height: 30px;
     background-color: #EF5122;
     display: flex;
     /*
@@ -74,7 +74,7 @@ body {
     margin-top: 36px;
     padding: 12px 0;
     background-color: #fff;
-    display: flex;
+   
 }
 
 .column-item {
