@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+.toast{
+    
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #f4f4f5;
+    align-items: center;
+    border-left: 8px solid #71be34;
+    border-radius: 2px;
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.08);
+}
+.toast__iconcheck{
+    font-size: 25px;
+    color: #71be34;
+    
+}
+.toast__thongbao{
+    color: #71be34;
+}
+.toast__iconerror{
+    font-size: 25px;
+    color: #ff623d;
+}
+.toast__warnning{
+    color: #ff623d;
+}
+}
+.toast__icontime{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.3);
+}
